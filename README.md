@@ -94,10 +94,10 @@ WeatherApp
 </h3>
 <ul>
   <li>
-**Location:** src/components/weatherApp/index.js
+<b>Location:</b> src/components/weatherApp/index.js
   </li>
   <li>
-**Description:** Main component that holds the state and renders other components based on the API status. Handles theme toggle, search method toggle, and API data fetching.
+<b>Description:</b> Main component that holds the state and renders other components based on the API status. Handles theme toggle, search method toggle, and API data fetching.
   </li>
 </ul>
 <h3>
@@ -105,10 +105,10 @@ Navbar
 </h3>
 <ul>
   <li>
-**Location:** src/components/navbar/index.js
+<b>Location:</b> src/components/navbar/index.js
   </li>
   <li>
-**Description:** Contains the search bar and handles search input changes. Allows switching between city and zip code search methods.
+<b>Description:</b> Contains the search bar and handles search input changes. Allows switching between city and zip code search methods.
   </li>
 </ul>
 <h3>
@@ -116,10 +116,10 @@ Dashboard
 </h3>
 <ul>
   <li>
-**Location:** src/components/dashboard/index.js
+<b>Location:</b> src/components/dashboard/index.js
   </li>
   <li>
-**Description:** Displays detailed weather information including temperature, wind speed, pressure, humidity, visibility, and sunrise/sunset times.
+<b>Description:</b> Displays detailed weather information including temperature, wind speed, pressure, humidity, visibility, and sunrise/sunset times.
   </li>
 </ul>
 <h3>
@@ -127,10 +127,10 @@ FailureView
 </h3>
 <ul>
   <li>
-**Location:** src/components/failureView/index.js
+<b>Location:</b> src/components/failureView/index.js
   </li>
   <li>
-**Description:** Displays an error message when the API call fails.
+<b>Description:</b> Displays an error message when the API call fails.
   </li>
 </ul>
 <h3>
